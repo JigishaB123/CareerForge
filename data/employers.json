@@ -1,0 +1,519 @@
+[
+  {
+    "companyName": "TechCorp",
+    "postedJobs": [
+      {
+        "jobId": "JOB-001",
+        "title": "Software Engineer",
+        "company": "TechCorp",
+        "location": "New York",
+        "requiredSkills": [
+          "Java",
+          "Spring Boot",
+          "REST APIs"
+        ],
+        "preferredMajor": "Computer Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "salaryMin": 85000.0,
+        "salaryMax": 110000.0,
+        "hasBenefits": true,
+        "signingBonus": 5000.0
+      },
+      {
+        "jobId": "JOB-004",
+        "title": "Software Engineering Intern",
+        "company": "TechCorp",
+        "location": "New York",
+        "requiredSkills": [
+          "Java",
+          "Git",
+          "OOP"
+        ],
+        "preferredMajor": "Computer Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "duration": "May 2026 - Aug 2026",
+        "stipend": 3000.0,
+        "academicCredit": false
+      },
+      {
+        "jobId": "JOB-D7851",
+        "title": "Senior Cloud Engineer",
+        "company": "TechCorp",
+        "location": "Miami",
+        "requiredSkills": [
+          "Java",
+          " AWS Cloud Computing",
+          " C++"
+        ],
+        "preferredMajor": "Information Systems",
+        "deadline": "2026-12-15",
+        "status": "Open",
+        "salaryMin": 100000.0,
+        "salaryMax": 250000.0,
+        "hasBenefits": true,
+        "signingBonus": 5000.0
+      },
+      {
+        "jobId": "JOB-7FED1",
+        "title": "Cloud Engineer",
+        "company": "TechCorp",
+        "location": "Miami",
+        "requiredSkills": [
+          "Java",
+          " Cloud Computing",
+          " Microsoft Azure"
+        ],
+        "preferredMajor": "Information Systems",
+        "deadline": "2027-09-25",
+        "status": "Open",
+        "duration": "6",
+        "stipend": 25000.0,
+        "academicCredit": true
+      },
+      {
+        "jobId": "JOB-04753",
+        "title": "Junior Cloud Engineer",
+        "company": "TechCorp",
+        "location": "Miami",
+        "requiredSkills": [
+          "Java",
+          " C++",
+          " Cloud Computing",
+          " Azure"
+        ],
+        "preferredMajor": "Information Systems",
+        "deadline": "2026-09-16",
+        "status": "Open",
+        "rotationCycle": "Fall Cycle",
+        "durationMonths": 3
+      },
+      {
+        "jobId": "JOB-95EDE",
+        "title": "ML Engineer",
+        "company": "TechCorp",
+        "location": "Miami",
+        "requiredSkills": [
+          "Machine Learning",
+          " Python",
+          " Artificial Intelligence"
+        ],
+        "preferredMajor": "Information Systems",
+        "deadline": "2026-06-18",
+        "status": "Open",
+        "salaryMin": 120000.0,
+        "salaryMax": 220000.0,
+        "hasBenefits": true,
+        "signingBonus": 5000.0
+      },
+      {
+        "jobId": "JOB-3D2D2",
+        "title": "SWE",
+        "company": "TechCorp",
+        "location": "New Jersey",
+        "requiredSkills": [
+          "Java",
+          " Python",
+          " Cloud Computing"
+        ],
+        "preferredMajor": "Information Systems",
+        "deadline": "2026-08-19",
+        "status": "Open",
+        "salaryMin": 100000.0,
+        "salaryMax": 250000.0,
+        "hasBenefits": true,
+        "signingBonus": 5000.0
+      },
+      {
+        "jobId": "JOB-CDF76",
+        "title": "Junior Software Developer",
+        "company": "TechCorp",
+        "location": "New Jersey",
+        "requiredSkills": [
+          "Machine Learning",
+          " AI",
+          " Java"
+        ],
+        "preferredMajor": "Information Systems",
+        "deadline": "2027-06-18",
+        "status": "Open",
+        "duration": "6",
+        "stipend": 20000.0,
+        "academicCredit": true
+      },
+      {
+        "jobId": "JOB-FEE63",
+        "title": "Senior Software Engineer",
+        "company": "TechCorp",
+        "location": "New Jersey",
+        "requiredSkills": [
+          "Java",
+          " Spring Boot"
+        ],
+        "preferredMajor": "Information Systems",
+        "deadline": "2026-08-16",
+        "status": "Open",
+        "rotationCycle": "Fall Cycle",
+        "durationMonths": 8
+      },
+      {
+        "jobId": "JOB-BB53C",
+        "title": "Data Analyst",
+        "company": "TechCorp",
+        "location": "San Jose",
+        "requiredSkills": [
+          "DBMS",
+          "Data Visualisation",
+          "Power BI"
+        ],
+        "preferredMajor": "Data Science",
+        "deadline": "2027-10-22",
+        "status": "Open",
+        "salaryMin": 110000.0,
+        "salaryMax": 250000.0,
+        "hasBenefits": true,
+        "signingBonus": 5000.0
+      },
+      {
+        "jobId": "JOB-DF486",
+        "title": "Junior Data Analyst",
+        "company": "TechCorp",
+        "location": "San Jose",
+        "requiredSkills": [
+          "Power BI",
+          "DBMS"
+        ],
+        "preferredMajor": "Data Science",
+        "deadline": "2026-08-22",
+        "status": "Open",
+        "duration": "4",
+        "stipend": 50000.0,
+        "academicCredit": true
+      },
+      {
+        "jobId": "JOB-686E9",
+        "title": "Senior Data Analyst",
+        "company": "TechCorp",
+        "location": "San Jose",
+        "requiredSkills": [
+          "Java",
+          "DBMS",
+          "Visualisation",
+          "Power BI"
+        ],
+        "preferredMajor": "Data Science",
+        "deadline": "2026-08-11",
+        "status": "Open",
+        "rotationCycle": "Spring Cycle",
+        "durationMonths": 8
+      },
+      {
+        "jobId": "JOB-1D8C6",
+        "title": "Data Analyst",
+        "company": "TechCorp",
+        "location": "San Jose",
+        "requiredSkills": [
+          "Java",
+          "DBMS"
+        ],
+        "preferredMajor": "Data Science",
+        "deadline": "2026-09-25",
+        "status": "Open",
+        "salaryMin": 120000.0,
+        "salaryMax": 250000.0,
+        "hasBenefits": true,
+        "signingBonus": 5000.0
+      },
+      {
+        "jobId": "JOB-BEF80",
+        "title": "AI Engineer",
+        "company": "TechCorp",
+        "location": "San Fransisco",
+        "requiredSkills": [
+          "AI",
+          "RAG",
+          "Python"
+        ],
+        "preferredMajor": "Artificial Intelligence",
+        "deadline": "2026-09-26",
+        "status": "Open",
+        "salaryMin": 130000.0,
+        "salaryMax": 240000.0,
+        "hasBenefits": true,
+        "signingBonus": 5000.0
+      },
+      {
+        "jobId": "JOB-82004",
+        "title": "Junior AI Engineer",
+        "company": "TechCorp",
+        "location": "San Fransisco",
+        "requiredSkills": [
+          "Python",
+          "AI"
+        ],
+        "preferredMajor": "Artificial Intelligence",
+        "deadline": "2026-09-16",
+        "status": "Open",
+        "duration": "4",
+        "stipend": 30000.0,
+        "academicCredit": true
+      },
+      {
+        "jobId": "JOB-5715E",
+        "title": "Senior AI Engineer",
+        "company": "TechCorp",
+        "location": "San Fransisco",
+        "requiredSkills": [
+          "Java",
+          "Python",
+          "AI"
+        ],
+        "preferredMajor": "Artificial Intelligence",
+        "deadline": "2026-07-25",
+        "status": "Open",
+        "rotationCycle": "Spring Cycle",
+        "durationMonths": 8
+      }
+    ],
+    "notifications": [
+      "Shivani Sugurushetty submitted an application for JOB-04753 \u0027Junior Cloud Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-D7851 \u0027Senior Cloud Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-7FED1 \u0027Cloud Engineer\u0027.",
+      "Shivani Sugurushetty application for \u0027Junior Cloud Engineer\u0027 changed to: Withdrawn.",
+      "Shivani Sugurushetty application for \u0027Cloud Engineer\u0027 changed to: UnderReview.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: UnderReview.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: Interview.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: Offer.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: Accepted.",
+      "Shivani Sugurushetty submitted an application for JOB-95EDE \u0027ML Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-FEE63 \u0027Senior Software Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-CDF76 \u0027Junior Software Developer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-3D2D2 \u0027SWE\u0027.",
+      "Shivani Sugurushetty application for \u0027SWE\u0027 was withdrawn.",
+      "Shivani Sugurushetty submitted an application for JOB-BB53C \u0027Data Analyst\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-DF486 \u0027Junior Data Analyst\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-686E9 \u0027Senior Data Analyst\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-1D8C6 \u0027Data Analyst\u0027.",
+      "Shivani Sugurushetty application for \u0027Data Analyst\u0027 was withdrawn.",
+      "Shivani Sugurushetty submitted an application for JOB-BEF80 \u0027AI Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-5715E \u0027Senior AI Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-82004 \u0027Junior AI Engineer\u0027.",
+      "Shivani Sugurushetty application for \u0027Junior AI Engineer\u0027 was withdrawn."
+    ],
+    "userId": "EMP-123",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "employee@careerforge.com",
+    "password": "password123"
+  },
+  {
+    "companyName": "TechCorp",
+    "postedJobs": [
+      {
+        "jobId": "JOB-007",
+        "title": "Software Developer Co-Op",
+        "company": "TechCorp",
+        "location": "New York",
+        "requiredSkills": [
+          "Java",
+          "REST APIs",
+          "Agile"
+        ],
+        "preferredMajor": "Computer Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "rotationCycle": "Spring/Fall",
+        "durationMonths": 6
+      },
+      {
+        "jobId": "JOB-010",
+        "title": "Frontend Developer",
+        "company": "TechCorp",
+        "location": "Boston",
+        "requiredSkills": [
+          "JavaScript",
+          "React",
+          "CSS"
+        ],
+        "preferredMajor": "Computer Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "salaryMin": 80000.0,
+        "salaryMax": 105000.0,
+        "hasBenefits": true,
+        "signingBonus": 3000.0
+      }
+    ],
+    "notifications": [
+      "Shivani Sugurushetty submitted an application for JOB-04753 \u0027Junior Cloud Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-D7851 \u0027Senior Cloud Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-7FED1 \u0027Cloud Engineer\u0027.",
+      "Shivani Sugurushetty application for \u0027Junior Cloud Engineer\u0027 changed to: Withdrawn.",
+      "Shivani Sugurushetty application for \u0027Cloud Engineer\u0027 changed to: UnderReview.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: UnderReview.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: Interview.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: Offer.",
+      "Shivani Sugurushetty application for \u0027Senior Cloud Engineer\u0027 changed to: Accepted.",
+      "Shivani Sugurushetty submitted an application for JOB-95EDE \u0027ML Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-FEE63 \u0027Senior Software Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-CDF76 \u0027Junior Software Developer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-3D2D2 \u0027SWE\u0027.",
+      "Shivani Sugurushetty application for \u0027SWE\u0027 was withdrawn.",
+      "Shivani Sugurushetty submitted an application for JOB-BB53C \u0027Data Analyst\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-DF486 \u0027Junior Data Analyst\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-686E9 \u0027Senior Data Analyst\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-1D8C6 \u0027Data Analyst\u0027.",
+      "Shivani Sugurushetty application for \u0027Data Analyst\u0027 was withdrawn.",
+      "Shivani Sugurushetty submitted an application for JOB-BEF80 \u0027AI Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-5715E \u0027Senior AI Engineer\u0027.",
+      "Shivani Sugurushetty submitted an application for JOB-82004 \u0027Junior AI Engineer\u0027.",
+      "Shivani Sugurushetty application for \u0027Junior AI Engineer\u0027 was withdrawn."
+    ],
+    "userId": "EMP001",
+    "firstName": "John",
+    "lastName": "Miller",
+    "email": "john.miller@techcorp.com",
+    "password": "emp123"
+  },
+  {
+    "companyName": "DataWorks",
+    "postedJobs": [
+      {
+        "jobId": "JOB-002",
+        "title": "Data Scientist",
+        "company": "DataWorks",
+        "location": "San Francisco",
+        "requiredSkills": [
+          "Python",
+          "Machine Learning",
+          "SQL"
+        ],
+        "preferredMajor": "Data Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "salaryMin": 95000.0,
+        "salaryMax": 130000.0,
+        "hasBenefits": true,
+        "signingBonus": 8000.0
+      },
+      {
+        "jobId": "JOB-005",
+        "title": "Data Science Intern",
+        "company": "DataWorks",
+        "location": "Remote",
+        "requiredSkills": [
+          "Python",
+          "Pandas",
+          "Data Visualization"
+        ],
+        "preferredMajor": "Data Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "duration": "Jun 2026 - Aug 2026",
+        "stipend": 2500.0,
+        "academicCredit": true
+      },
+      {
+        "jobId": "JOB-009",
+        "title": "ML Engineering Co-Op",
+        "company": "DataWorks",
+        "location": "San Francisco",
+        "requiredSkills": [
+          "Python",
+          "TensorFlow",
+          "Machine Learning"
+        ],
+        "preferredMajor": "Data Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "rotationCycle": "Spring/Summer",
+        "durationMonths": 6
+      },
+      {
+        "jobId": "JOB-0C386",
+        "title": "SWE",
+        "company": "DataWorks",
+        "location": "Remote",
+        "requiredSkills": [
+          "Java",
+          " Spring",
+          " Angular"
+        ],
+        "preferredMajor": "CS",
+        "deadline": "2026-07-01",
+        "status": "OPEN",
+        "salaryMin": 100000.0,
+        "salaryMax": 160000.0,
+        "hasBenefits": true,
+        "signingBonus": 70000.0
+      }
+    ],
+    "userId": "EMP002",
+    "firstName": "Sarah",
+    "lastName": "Lee",
+    "email": "sarah.lee@dataworks.com",
+    "password": "emp456"
+  },
+  {
+    "companyName": "CloudNet",
+    "postedJobs": [
+      {
+        "jobId": "JOB-003",
+        "title": "DevOps Engineer",
+        "company": "CloudNet",
+        "location": "Austin",
+        "requiredSkills": [
+          "Docker",
+          "Kubernetes",
+          "CI/CD"
+        ],
+        "preferredMajor": "Computer Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "salaryMin": 90000.0,
+        "salaryMax": 120000.0,
+        "hasBenefits": true,
+        "signingBonus": 6000.0
+      },
+      {
+        "jobId": "JOB-006",
+        "title": "Backend Engineering Intern",
+        "company": "CloudNet",
+        "location": "Boston",
+        "requiredSkills": [
+          "Java",
+          "Spring Boot",
+          "MySQL"
+        ],
+        "preferredMajor": "Computer Engineering",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "duration": "May 2026 - Jul 2026",
+        "stipend": 2800.0,
+        "academicCredit": false
+      },
+      {
+        "jobId": "JOB-008",
+        "title": "Cloud Infrastructure Co-Op",
+        "company": "CloudNet",
+        "location": "Remote",
+        "requiredSkills": [
+          "Docker",
+          "Kubernetes",
+          "Linux"
+        ],
+        "preferredMajor": "Computer Science",
+        "deadline": "2026-12-01",
+        "status": "Open",
+        "rotationCycle": "Fall/Spring",
+        "durationMonths": 8
+      }
+    ],
+    "userId": "EMP003",
+    "firstName": "Mike",
+    "lastName": "Chen",
+    "email": "mike.chen@cloudnet.com",
+    "password": "emp789"
+  }
+]
