@@ -32,7 +32,7 @@ A career portal desktop application built in Java that connects students with em
 
 | Layer | Technology                |
 |---|---------------------------|
-| Language | Java 25                   |
+| Language | Java 17                   |
 | GUI | Java Swing                |
 | Serialization | Gson 2.10.1               |
 | Build | Maven (`pom.xml`)         |
